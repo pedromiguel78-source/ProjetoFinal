@@ -1,0 +1,30 @@
+ {
+  "docentes": [
+    {
+      "_id": "<ObjectId>",
+      "nome": "Pedro Pereira",
+      "email": "pedro.pereira@uab.pt",
+      "password": "PWA2026! (hash guardada no campo passwordHash)"
+    }
+  ],
+  "alunos": [
+    {
+      "_id": "<ObjectId>",
+      "nome": "Tiago Pereira",
+      "numero": "220001",
+      "email": "tiago.pereira@alunos.uab.pt"
+    }
+  ],
+  "propostas": [
+    {
+      "_id": "<ObjectId>",
+      "titulo": "Plataforma de monitorização de qualidade do ar em salas de aula",
+      "orientador": "<DocenteId>",
+      "coorientadores": [],
+      "palavrasChave": ["IoT", "sensores", "dashboard"],
+      "alunos": [],
+      "descricaoObjetivos": "...",
+      "estado": "publicada"
+    }
+  ]
+}
