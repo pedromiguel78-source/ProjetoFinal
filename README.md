@@ -128,6 +128,14 @@ Email: pedro.pereira@uab.pt
 Password: PWA2026!
 ```
 
+
+## Repositório Git
+
+O código-fonte do projeto encontra-se disponível no seguinte repositório GitHub:
+
+🔗 https://github.com/pedromiguel78-source/ProjetoFinal.git
+
+
 ---
 
 ## 7. Observações Finais
